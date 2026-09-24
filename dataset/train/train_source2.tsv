@@ -1,0 +1,30 @@
+entity_id	business_name	business_address	country
+S2-00001	Acme Corp.	123 Main St., Springfield, IL 62701	US
+S2-00002	Acme Corporation (Branch)	123 Main Street, Springfield, IL	US
+S2-00003	Acme Corporation	123 Main Street	US
+S2-00004	Sunrise Hotels Limited (Branch)	Near Airport, Andheri East, Mumbai 400069	US
+S2-00005	Global Tech Solutions Inc (Branch)	500 SILICON AVE, SAN JOSE, CA 95101	US
+S2-00006	Global Tech Solutions Inc	500 SILICON AVE, SAN JOSE, CA 95101	US
+S2-00007	GLOBAL TECH SOLUTIONS INC	500 Silicon Ave, San Jose, CA 95101	US
+S2-00008	Acme Corp.	123 Main Street	US
+S2-00009	springfield bakery & cafe	45 BAKER ROAD, SPRINGFIELD, IL 62702	US
+S2-00010	acme corporation	123 Main Street	US
+S2-00011	Sunrise Hotels Limited (Branch)		India
+S2-00012	sunrise hotels limited	Near Airport, Andheri East, Mumbai 400069  (Near Main Market)	India
+S2-00013	Sunrise Hotels Limited	Near Airport, Andheri East, Mumbai 400069  (Near Main Market)	India
+S2-00014	Unique Solutions Corp	999 Nowhere Lane, Remote, WY 82001	India
+S2-00015	Sharma Enterprises Pvt Ltd	Plot 12, Okhla Industrial Area, New Delhi 110020	India
+S2-00016	Springfield Bakery & Cafe (Branch)	45 Baker Road, Springfield, IL 62702  (Near Main Market)	India
+S2-00017	Café de Paris SARL	10 Rue de Rivoli	France
+S2-00018	Café de Paris SARL	10 Rue de Rivoli, 75001 Paris, France	France
+S2-00019	TechVision International Corp	200 Innovation Blvd, Austin, TX 78701	France
+S2-00020	TechVision International Corp	200 Innovation Blvd, Austin, TX	US
+S2-00021	TechVision International Corp	200 Innovation Blvd, Austin, TX	US
+S2-00022	Unique Solutions Corp	999 Nowhere Lane, Remote, WY 82001	US
+S2-00023	Mumbai Spice Traders Private (Branch)	Shop 5, Crawford Market, Mumbai 400001  (Near Main Market)	India
+S2-00024	DataStream Analytics LLC	300 Market Street Suite 1200, San Francisco, CA 94105  (Near Main Market)	India
+S2-00025	lyon textiles sas	42 Avenue Jean Jaurès,  Lyon, France	France
+S2-00026	paris boutique snc	7 Rue du Faubourg, 75008 Paris, France	France
+S2-00027	datastream analytics llc	300 Market Street Suite 1200	US
+S2-00028	DataStream Analytics LLC (Branch)	300 Market St. Suite 1200, San Francisco, CA 94105	US
+S2-00029	Acme Corporation (Branch)	123 Main Street	US

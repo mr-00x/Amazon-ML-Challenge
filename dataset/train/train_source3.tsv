@@ -1,0 +1,33 @@
+entity_id	business_name	business_address	country
+S3-00001	Acme Corp.	123 Main Street, Springfield, IL 62701	US
+S3-00002	Acme Corporation	123 Main Street, Springfield, IL 62701	US
+S3-00003	SPRINGFIELD BAKERY & CAFE	45 Baker Road, Springfield, IL	US
+S3-00004	Global Tech Solutions Inc (Branch)	500 Silicon Ave, San Jose, CA 95101	US
+S3-00005	Global Tech Solutions Inc	500 Silicon Ave	US
+S3-00006	TechVision International Corp	200 Innovation Blvd	US
+S3-00007	Springfield Bakery & Cafe		US
+S3-00008	Springfield Bakery & Cafe (Branch)		US
+S3-00009	Springfield Bakery & Cafe	45 BAKER ROAD, SPRINGFIELD, IL 62702	US
+S3-00010	Paris Boutique SNC	7 RUE DU FAUBOURG, 75008 PARIS, FRANCE	US
+S3-00011	Sunrise Hotels Limited	Near Airport	India
+S3-00012	SUNRISE HOTELS LIMITED	Near Airport, Andheri East, Mumbai 400069  (Near Main Market)	India
+S3-00013	Sunrise Hotels Limited		India
+S3-00014	DataStream Analytics LLC		India
+S3-00015	Sharma Enterprises Pvt Ltd	Plot 12, Okhla Industrial Area, New Delhi 110020	India
+S3-00016	Sharma Enterprises Pvt Ltd	Plot 12, Okhla Industrial Area, New Delhi 110020	India
+S3-00017	Sunrise Hotels Limited	Near Airport, Andheri East, Mumbai 400069	India
+S3-00018	CAFÉ DE PARIS SARL	10 Rue de Rivoli,  Paris, France	France
+S3-00019	Café de Paris SARL	10 Rue de Rivoli	France
+S3-00020	Unique Solutions Corp (Branch)	999 Nowhere Lane, Remote, WY	France
+S3-00021	TechVision International Corp (Branch)	200 Innovation Blvd, Austin, TX 78701  (Near Main Market)	US
+S3-00022	Mumbai Spice Traders Private (Branch)	Shop 5, Crawford Market, Mumbai 400001  (Near Main Market)	US
+S3-00023	Mumbai Spice Traders Private	Shop 5	India
+S3-00024	Sunrise Hotels Limited (Branch)	NEAR AIRPORT, ANDHERI EAST, MUMBAI 400069	India
+S3-00025	Lyon Textiles SAS		France
+S3-00026	lyon textiles sas	42 Avenue Jean Jaurès, 69007 Lyon, France  (Near Main Market)	France
+S3-00027	lyon textiles sas	42 Avenue Jean Jaurès, 69007 Lyon, France  (Near Main Market)	France
+S3-00028	Café de Paris SARL	10 Rue de Rivoli	France
+S3-00029	DATASTREAM ANALYTICS LLC	300 Market St. Suite 1200, San Francisco, CA 94105	US
+S3-00030	DataStream Analytics LLC	300 Market St. Suite 1200, San Francisco, CA 94105	US
+S3-00031	DataStream Analytics LLC	300 Market St. Suite 1200, San Francisco, CA 94105	US
+S3-00032	Springfield Bakery & Cafe (Branch)	45 Baker Road	US
